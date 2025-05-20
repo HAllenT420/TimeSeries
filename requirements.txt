@@ -1,0 +1,16 @@
+pandas
+numpy==1.24.4
+matplotlib
+seaborn
+scikit-learn
+statsmodels
+pmdarima
+prophet
+tensorflow
+torch
+ipykernel
+prophet
+tensorflow
+mplfinance
+xgboost
+pmdarima 
